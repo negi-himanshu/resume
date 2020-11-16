@@ -1,0 +1,75 @@
+.portfolio-container{
+    min-width: 80vw;
+    /* height: 80vh; */
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.portfolio-work-container {
+    width: 50%;
+    opacity: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .portfolio-work-container {
+        width: 100%;
+        opacity: 0;
+    }
+}
+
+.fadeInDown {
+    animation-name: fadeInDown;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+.portfolio-skills-container {
+    width: 100%;
+    align-items: flex-start;
+    opacity: 0;
+}
+
+.portfolio-skill-item {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.potfolio-education-item {
+    width: 45%;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 768px) {
+    .potfolio-education-item {
+        width: 100%;
+        align-items: flex-start;
+    }
+}
+
+.portfolio-skill-engagement {
+    width: 45%;
+}
+
+@media screen and (max-width: 768px) {
+    .portfolio-skill-engagement {
+        width: 100%;
+    }
+}
+
+
+.portfolio-hobby-container {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 24px 1%;
+    flex-wrap: wrap;
+}
+
+.portfolio-hobby-item {
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    margin: 16px 0px;
+}

@@ -1,0 +1,19 @@
+.introduction-container {
+    width: 100vw;
+    min-height: 100vh;
+    justify-content: space-evenly;
+}
+
+.introduction-image {
+    height: 60vh;
+}
+
+.introduction-details {
+    width: 40%;
+}
+
+@media screen and (max-width: 768px) {
+    .introduction-details {
+        width: 80%;
+    }
+}

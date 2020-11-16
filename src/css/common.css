@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.small-icon {
+    height: 32px;
+    margin: 8px 8px;
+    /* pointer-events: none; */
+}
+
+
+.medium-icon {
+    height: 48px;
+    margin: 8px 8px;
+    /* pointer-events: none; */
+}
