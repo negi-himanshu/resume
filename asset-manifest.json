@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.06d07d6a.chunk.css",
+    "main.js": "/resume/static/js/main.3025b8f3.chunk.js",
+    "main.js.map": "/resume/static/js/main.3025b8f3.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.4635711e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.4635711e.js.map",
+    "static/js/2.3eb01123.chunk.js": "/resume/static/js/2.3eb01123.chunk.js",
+    "static/js/2.3eb01123.chunk.js.map": "/resume/static/js/2.3eb01123.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.0311c63fe57ce458d2fdf0d2fd25b558.js": "/resume/precache-manifest.0311c63fe57ce458d2fdf0d2fd25b558.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.06d07d6a.chunk.css.map": "/resume/static/css/main.06d07d6a.chunk.css.map",
+    "static/js/2.3eb01123.chunk.js.LICENSE.txt": "/resume/static/js/2.3eb01123.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/resume/static/media/calendar.f84845bc.svg",
+    "static/media/football.svg": "/resume/static/media/football.50932b68.svg",
+    "static/media/location.svg": "/resume/static/media/location.cf9e1cd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4635711e.js",
+    "static/js/2.3eb01123.chunk.js",
+    "static/css/main.06d07d6a.chunk.css",
+    "static/js/main.3025b8f3.chunk.js"
+  ]
+}
